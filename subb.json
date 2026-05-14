@@ -97,7 +97,7 @@
       "tag" : "block"
     }
   ],
-  "remarks" : "  🇪🇺 LTE №2  | Новые блокировки ",
+  "remarks" : "  🇪🇺 UniGates  | Новые блокировки ",
   "routing" : {
     "domainStrategy" : "IPIfNonMatch",
     "rules" : [
